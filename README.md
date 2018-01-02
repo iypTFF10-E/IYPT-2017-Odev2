@@ -16,35 +16,24 @@ Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" 
 
 1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
 
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
+2. Daha kapsamlı bir ödev için daha önce yapılmış  Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
 3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Burada gerçekleştirecek olduğumuz projenin amacı kuru (pişmemiş) spagettinin hangi koşullarda sert bir zemine yüksekten bırakıldığı zaman kırılmadığını ya da ne gibi tepkiler vereceğini görmek ve incelemektir. Bu projeden çıkarılacak sonuçlara göre yeni türde projeler üretilebilir (örneğin alçak binaların gökdelenlere göre daha dayanıklı olması). Deneyin yapılması için bir paket spagetti ve düz ve sert bir zemin kullanılması gerekmektedir. Bazı koşulları gerçekleştirebilmek için çeşitli araçlar da gerekebilir. Spagettinin bırakılma şeklinin değiştirilmesi (dikey, yatay, çapraz vb.), spagettinin kalınlık, şekil veya uzunluk gibi niceliklerinin değiştirilmesi ise deneyde kullanılabilecek yöntemlerdendir. Ayrıca yüzey sertliğinin değiştirilmesi (mermer, toprak, tahta gibi) veya yüzeydeki yatay düzlemin eğiminin değiştirilmesi ise deneyin sert yüzey özelliklerine bağlı başka yöntemlerindendir. Ya da hepsine ek olarak spagettinin sadece bırakılarak değil de bir tür kuvvet ya da etkileyecek başka bir güç uygulayarak spagettinin sert yüzeye düşmesini sağlamak ise bir başka yöntemdir. Ayrıca daha net bir gözlemleme için bazı bilgisayar programları kullanılabilir (örneğin Video Tracker benzeri uygulamalar). Bu tür yöntemlerle deney gerçekleştirilebilir ve verilere aktarılabilir. 
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Araştırmamızın temel amacı kuru spagettinin hangi koşullarda sert bir zemine yüksekten bırakıldığı zaman kırılmadığını ya da ne gibi tepkiler vereceğini görmektir. Deneyimizin problemi ise bu deney gerçekleştirildiği zaman spagettinin kırılması,kırılmaması veya bu çeşit verebileceği tepkilerdir. Çıkardığımız hipotezler ise değişen faktörlere bağlıdır. Örneğin spagettinin bırakıldığı yükseklik arttırılırsa kırılma olasılığı artar. Bırakıldığı zeminin sertliğinin değiştirilmesi de spagettinin kırılma olasılığını değiştirir. Halı gibi yumuşak bir yüzeye bırakılırsa kırılma ihtimali azalır fakat mermer gibi sert bir zemine bırakılırsa kırılma ihtimali artar. Spagettinin yere düşüş açısı kırılma olasılığını etkiler. Ne kadar dik atılırsa basınç o kadar artar ve kırılma ihtimali de artar. Spagettinin kalınlığı artarsa kırılma ihtimali azalır, uzunluğu arttırılırsa kırılma ihtimali artar. Örneğin Yulia Peregud isimli kişi bu deneyi uygulamış ve formüllerle açıklamıştır. Aynı şekilde Chong Wang ve Chengping Zhang da çalışma yapmıştır. Bizim çalışmamızı benzer çalışmalardan ayıran yönü onlar bu deneyi işlemlere dökerek yani teorik olarak hesaplamışlardır,ispatlamışlardır ve bunu kullanmışlardır. Bizim çalışmamız ise teorik olarak değil daha fazla gözlemlemeye dayalı bir şekilde gerçekleşecektir. Ayrıca Video Tracker gibi proglamlar da kullanılacaktır.
+
+Kaynakçalar
+1)	Wang, C., Zhang C. 2010. “2010 Problem 12: Breaking Spaghetti”, IYPT Breaking Spaghetti.pdf
+
+2)	Martchenko, I., “Preparation to the Young Physicists’ Tournaments’ 2011”, Preperation to the IYPT 2011.pdf, 27-34
+
+3)	Peregud, Y., “Breaking Spaghetti”, 2011_4_Breaking_spaghetti_Belarus2_YP_v2.pdf
+
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
